@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "555B5C30-FB3F-4EFF-8B2C-1C7E9DB73C3C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Yakala/gameViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "timeObj"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80 - dd70583f5755775"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yakala.gameViewController.StartTime.getter : Swift.Double"
+                  moduleName = "Yakala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emregurbuz/Desktop/yakala/Yakala/Yakala/gameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80 - 35898a826a6c6761"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yakala.gameViewController.StartTime.setter : Swift.Double"
+                  moduleName = "Yakala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emregurbuz/Desktop/yakala/Yakala/Yakala/gameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80 - cdd5916789440376"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yakala.gameViewController.StartTime.modify : Swift.Double"
+                  moduleName = "Yakala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emregurbuz/Desktop/yakala/Yakala/Yakala/gameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80 - 638c30896fa29561"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yakala.gameViewController.StartTime.modify : Swift.Double with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "Yakala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emregurbuz/Desktop/yakala/Yakala/Yakala/gameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80 - c3b269dac60767ad"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yakala.gameViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Yakala.gameViewController"
+                  moduleName = "Yakala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emregurbuz/Desktop/yakala/Yakala/Yakala/gameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "792">
+               </Location>
+               <Location
+                  uuid = "6F76D1AE-BAE2-4D39-8D8B-AC42BFE3DC80 - d6ca6c767bb401c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Yakala.gameViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Yakala.gameViewController&gt;"
+                  moduleName = "Yakala"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/emregurbuz/Desktop/yakala/Yakala/Yakala/gameViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "768">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
